@@ -1,6 +1,3 @@
-// express mysql2 sequelize nodemon dotenv bcrypt
-// todo use momentjs to show user what workout they did today/ what workout they should do on a specific day
-
 //importing
 const express = require("express");
 const path = require("path");
